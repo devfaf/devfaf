@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**devfaf/devfaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Fatemeh Tayyar, a self-taught front-end developer passionate about creating beautiful and functional web applications. I have experience in HTML, CSS, JavaScript, SCSS, TailwindCSS, and I'm currently learning React to further enhance my skills.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 I’m currently learning **React**
+- 💻 I'm proficient in **HTML, CSS, JavaScript, SCSS, and TailwindCSS**
+- 🔭 I’m working on personal projects to expand my knowledge and portfolio
+- 🤝 I’m looking to collaborate on open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks & Libraries:** React (learning), Tailwind, SCSS
+- **Tools:** Git, VSCode, Figma
+---
