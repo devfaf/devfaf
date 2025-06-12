@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Fatemeh Tayyar, a self-taught front-end developer passionate about creating beautiful and functional web applications. I have experience in HTML, CSS, JavaScript, SCSS, TailwindCSS, and I'm currently learning React to further enhance my skills.
+I'm a self-taught front-end developer passionate about creating beautiful and functional web applications. I have experience in HTML, CSS, JavaScript, SCSS, TailwindCSS, and I'm currently learning React to further enhance my skills.
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **React**
