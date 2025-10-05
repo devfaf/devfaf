@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi 👋
 
 I'm a self-taught front-end developer passionate about creating beautiful and functional web applications. I have experience in HTML, CSS, JavaScript, SCSS, TailwindCSS, and I'm currently learning React to further enhance my skills.
 
