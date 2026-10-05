@@ -78,6 +78,5 @@ Feel free to reach out if you want to build something together!
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devfaf/kalachi-shop)
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=devfaf&color=blueviolet)
 
 *Thanks for stopping by! Always open to feedback and new opportunities.*
