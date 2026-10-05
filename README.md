@@ -61,7 +61,7 @@ Feel free to reach out if you want to build something together!
 
 ### 🚀 [TaskFlow](https://github.com/devfaf/TaskFlow)
 
-> One-line description of what this project does.
+> TaskFlow is a project management and issue-tracking tool designed to automate workflows and enable faster collaboration across teams.
 
 **Tech:** `React` `TypeScript` `Tailwind CSS` `Zustand`
 
@@ -71,7 +71,7 @@ Feel free to reach out if you want to build something together!
 
 ### 🚀 [Kalachi](https://github.com/devfaf/kalachi-shop)
 
-> One-line description of what this project does.
+> Kalachi is a Next.js e-commerce storefront for electronics and tech products
 
 **Tech:** `Next.js` `TypeScript` `Tailwind CSS` `Zustand`
 
