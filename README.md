@@ -79,4 +79,5 @@ Feel free to reach out if you want to build something together!
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=devfaf&color=blueviolet)
+
 *Thanks for stopping by! Always open to feedback and new opportunities.*
