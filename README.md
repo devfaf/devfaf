@@ -59,7 +59,23 @@ Feel free to reach out if you want to build something together!
 
 ## 📌 Featured Projects
 
-> Check out my pinned repositories below 👇
+### 🚀 [Project Name 1](https://github.com/YOUR_USERNAME/PROJECT_REPO_1)
+
+> One-line description of what this project does.
+
+**Tech:** `React` `TypeScript` `Tailwind CSS` `Zustand`
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devfaf/TaskFlow)
+
+---
+
+### 🚀 [Project Name 2](https://github.com/YOUR_USERNAME/PROJECT_REPO_2)
+
+> One-line description of what this project does.
+
+**Tech:** `Next.js` `TypeScript` `Tailwind CSS` `Zustand`
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devfaf/kalachi-shop)
 
 ---
 
