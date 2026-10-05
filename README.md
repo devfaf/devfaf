@@ -59,7 +59,7 @@ Feel free to reach out if you want to build something together!
 
 ## 📌 Featured Projects
 
-### 🚀 [Project Name 1](https://github.com/YOUR_USERNAME/PROJECT_REPO_1)
+### 🚀 [TaskFlow](https://github.com/devfaf/TaskFlow)
 
 > One-line description of what this project does.
 
@@ -69,7 +69,7 @@ Feel free to reach out if you want to build something together!
 
 ---
 
-### 🚀 [Project Name 2](https://github.com/YOUR_USERNAME/PROJECT_REPO_2)
+### 🚀 [Kalachi](https://github.com/devfaf/kalachi-shop)
 
 > One-line description of what this project does.
 
