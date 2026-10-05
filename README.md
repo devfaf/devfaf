@@ -61,7 +61,7 @@ Feel free to reach out if you want to build something together!
 
 ### 🚀 [TaskFlow](https://github.com/devfaf/TaskFlow)
 
-> TaskFlow is a project management and issue-tracking tool designed to automate workflows and enable faster collaboration across teams.
+> TaskFlow is a project management and issue-tracking tool.
 
 **Tech:** `React` `TypeScript` `Tailwind CSS` `Zustand`
 
