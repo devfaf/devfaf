@@ -6,7 +6,7 @@ I'm a self-taught frontend developer passionate about building clean, performant
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
 - 🚀 Self-taught developer — learned everything through practice, projects, and curiosity
 - 🌱 Currently deepening my skills in **React**, **TypeScript**, and **Next.js**
